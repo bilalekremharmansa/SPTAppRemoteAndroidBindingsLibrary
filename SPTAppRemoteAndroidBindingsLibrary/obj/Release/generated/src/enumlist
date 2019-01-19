@@ -1,0 +1,3 @@
+com.spotify.android.appremote.api.ConnectionParams$AuthMethod:Com.Spotify.Android.Appremote.Api:ConnectionParams.AuthMethod
+com.spotify.android.appremote.api.ContentApi$ContentType:Com.Spotify.Android.Appremote.Api:ContentApi.ContentType
+com.spotify.android.appremote.api.PlayerApi$StreamType:Com.Spotify.Android.Appremote.Api:PlayerApi.StreamType
